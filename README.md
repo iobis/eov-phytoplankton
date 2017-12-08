@@ -1,4 +1,4 @@
-# eov-plankton
+# eov-phytoplankton
 
 ## Contribution of OBIS toward EOV analysis
 
